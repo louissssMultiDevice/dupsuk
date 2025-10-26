@@ -11,8 +11,8 @@ app.use(express.json());
 
 // Konfigurasi
 const PTERODACTYL_CONFIG = {
-  panelUrl: 'https://ini.panelsanka.biz.id',
-  apiKey: 'your-pterodactyl-api-key'
+  panelUrl: 'https://jeekage.kandigpanel.my.id',
+  apiKey: 'ptla_rk7sKX4gm65RoYmGqucFvNkf7flCCUBwVLot7MOWoLE'
 };
 
 // WhatsApp Client
